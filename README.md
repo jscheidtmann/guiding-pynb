@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jscheidtmann/guiding-pynb/HEAD)
+
 # Jupyter Notebooks on Guiding
 
 This repository contains Jupyter Notebooks with calculations and visualizations on Guiding, a technique to improve tracking of a telescope in deep sky photography.
